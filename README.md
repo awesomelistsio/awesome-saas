@@ -28,6 +28,7 @@
 ## SaaS Boilerplates & Starter Kits
 
 - [Next.js Subscription Starter](https://github.com/vercel/nextjs-subscription-payments) – Full-featured SaaS starter with Stripe billing using Next.js.
+- [ShipAI.today](https://shipai.today/) – Next.js AI SaaS boilerplate with auth and billing.
 - [Laravel Spark](https://spark.laravel.com/) – Official Laravel SaaS starter with authentication and billing.
 - [SaaS Pegasus](https://www.saaspegasus.com/) – Django-based boilerplate including onboarding, billing, and dashboards.
 - [Bullet Train](https://bullettrain.co/) – Rails SaaS boilerplate with multi-tenancy and Stripe.
