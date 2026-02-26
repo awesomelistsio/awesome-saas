@@ -116,6 +116,7 @@
 
 ## Growth, Marketing & Sales
 
+- [Ambedo](https://www.bulkmetadataeditor.com) – Bulk metadata editor for video, audio, and images to optimize digital assets.
 - [HubSpot](https://www.hubspot.com/) – CRM and marketing automation for SaaS companies.
 - [Mailchimp](https://mailchimp.com/) – Email marketing platform for onboarding and retention.
 - [ConvertKit](https://convertkit.com/) – Creator-focused email marketing ideal for SaaS landing pages.
