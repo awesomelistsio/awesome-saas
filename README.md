@@ -78,6 +78,7 @@
 - [Algolia](https://www.algolia.com/) – Hosted search API powering fast, relevant search UX.
 - [SendGrid](https://sendgrid.com/) – Email API for transactional and marketing emails.
 - [Twilio](https://www.twilio.com/) – Messaging, voice, and SMS API for customer communications.
+- [BulkPublish](https://www.bulkpublish.com/) – Social media publishing API for 11 platforms with scheduling, analytics, and AI agent support. Python & Node.js SDKs.
 
 ## Customer Support & Communication
 
