@@ -50,6 +50,7 @@
 - [Chargebee](https://www.chargebee.com/) – Subscription billing, invoicing, and revenue operations platform.
 - [Recurly](https://recurly.com/) – Subscription management platform for SaaS and digital goods.
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) – Merchant of record for SaaS, apps, and digital downloads.
+- [SaveMyChurn](https://savemychurn.com) – AI-powered churn recovery for Stripe subscriptions. Detects at-risk subscribers and sends personalized retention offers automatically. (savemychurn.com)
 - [Braintree](https://www.braintreepayments.com/) – Payment processing and subscription features powered by PayPal.
 
 ## Databases & Storage
