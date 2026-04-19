@@ -123,6 +123,11 @@
 - [Buffer](https://buffer.com/) – Social media scheduling for brand awareness.
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
 
+## AI & Developer Tools
+
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) – Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) – 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
+
 ## Learning Resources
 
 ### Tutorials
