@@ -27,6 +27,7 @@
 
 ## SaaS Boilerplates & Starter Kits
 
+- [Peddlum](https://peddlum.com) - Three-sided SaaS marketplace combining seller storefronts, UGC campaigns, and affiliate tracking.
 - [Next.js Subscription Starter](https://github.com/vercel/nextjs-subscription-payments) – Full-featured SaaS starter with Stripe billing using Next.js.
 - [Laravel Spark](https://spark.laravel.com/) – Official Laravel SaaS starter with authentication and billing.
 - [SaaS Pegasus](https://www.saaspegasus.com/) – Django-based boilerplate including onboarding, billing, and dashboards.
