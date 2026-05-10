@@ -122,6 +122,7 @@
 - [Ahrefs](https://ahrefs.com/) – SEO suite for organic growth strategy.
 - [Buffer](https://buffer.com/) – Social media scheduling for brand awareness.
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
+- [SalesLabel](https://sales-label.com/) – White-label outbound sales infrastructure for B2B agencies.
 
 ## Learning Resources
 
