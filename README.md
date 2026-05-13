@@ -51,6 +51,7 @@
 - [Recurly](https://recurly.com/) – Subscription management platform for SaaS and digital goods.
 - [Lemon Squeezy](https://www.lemonsqueezy.com/) – Merchant of record for SaaS, apps, and digital downloads.
 - [Braintree](https://www.braintreepayments.com/) – Payment processing and subscription features powered by PayPal.
+- [Dodo Payments CLI](https://github.com/dodopayments/dodopayments-cli) – Open-source command-line tool and TUI for managing SaaS subscriptions, payments, customers and webhooks via the Dodo Payments API, with a built-in AI assistant.
 
 ## Databases & Storage
 
