@@ -122,6 +122,7 @@
 - [Ahrefs](https://ahrefs.com/) – SEO suite for organic growth strategy.
 - [Buffer](https://buffer.com/) – Social media scheduling for brand awareness.
 - [Fathom Analytics](https://usefathom.com/) – Privacy-first analytics ideal for SaaS businesses operating in regulated markets.
+- [MarketiStats](https://marketistats.com/) – Multi-channel marketing analytics dashboard consolidating social, SEO, outreach, affiliate, and paid ads tracking for SaaS founders.
 
 ## Learning Resources
 
